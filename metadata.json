@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CNFL Asset Management System",
+  "description": "A prototype application for an Asset Management System (AMS) for the company 'cnfl', allowing users to view dashboards, manage assets, file requests, and generate reports.",
+  "requestFramePermissions": []
+}
